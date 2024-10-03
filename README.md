@@ -13,6 +13,7 @@ ls enlistar
 New-Item crear un archivo
 python --version verificar versión
 code . abrir el directorio en VSC
+python nombre.ext corre programa script archivo
 
 ```
 
